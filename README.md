@@ -4,13 +4,13 @@ NOTE: All of the mods are available for forge 1.20.1 and any libraries required 
 
 ## Table of Contents
 
-- [Immersive Vehicles](#Immersive Vehicles)
-- [Other Vehicles](#Other Vehicles)
+- [Immersive Vehicles](#ImmersiveVehicles)
+- [Other Vehicles](#OtherVehicles)
 - [Weapons](#Weapons)
-- [Sound & Physics](#Sound & Physics)
+- [Sound & Physics](#Sound&Physics)
 - [Shaders](#Shaders)
 - [Decoration](#Decoration)
-- [Armor, Clothing & Miscellaneous](#Armor, Clothing & Miscellaneous)
+- [Armor, Clothing & Miscellaneous](#Armor,Clothing&Miscellaneous)
 - [Tweaks](#Tweaks)
 
 ## Immersive Vehicles
