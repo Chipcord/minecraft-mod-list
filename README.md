@@ -13,6 +13,7 @@ NOTE: All of the mods are available for forge 1.20.1 and any libraries required 
 - [Armor, Clothing & Miscellaneous](#Armor-Clothing--Miscellaneous)
 - [Tweaks & QoL](#Tweaks--QoL)
 - [Utility](#Utility)
+- [Terrain & Structures Generation](#Terrain--Structures-Generation)
 
 ## Immersive Vehicles
 
@@ -89,3 +90,9 @@ NOTE: All of the mods are available for forge 1.20.1 and any libraries required 
 - [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) (Neat little minimap, but can take away from the experience)
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) (Really good if your mods add alot of items)
 - [Item Obliterator](https://www.curseforge.com/minecraft/mc-mods/item-obliterator) (A mod adds items you don't want, or you just want to dissable diamond sword recipe? This is for you)
+
+## Terrain & Structures Generation
+### Terrain
+### Structures
+- [The Lost Cities](https://www.curseforge.com/minecraft/mc-mods/the-lost-cities/files/all?page=1&pageSize=20) (Adds abandoned cities, can be buggy at times)
+- [Undermod](https://www.curseforge.com/minecraft/mc-mods/undermod) (Perfect combination with The Lost Cities, adds sewers, etc)
