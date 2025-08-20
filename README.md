@@ -81,3 +81,5 @@ NOTE: All of the mods are available for forge 1.20.1 and any libraries required 
 ## Tweaks
 - [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) (Must have for all modpacks)
 
+## Utility
+- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) (Neat little minimap, but can take away from the experience)
