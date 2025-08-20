@@ -11,7 +11,8 @@ NOTE: All of the mods are available for forge 1.20.1 and any libraries required 
 - [Shaders](#Shaders)
 - [Decoration](#Decoration)
 - [Armor, Clothing & Miscellaneous](#Armor,Clothing&Miscellaneous)
-- [Tweaks](#Tweaks)
+- [Tweaks](#Tweaks&QoL)
+- [Utility](#Utility)
 
 ## Immersive Vehicles
 
@@ -49,7 +50,7 @@ NOTE: All of the mods are available for forge 1.20.1 and any libraries required 
 
 ## Sound & Physics
 - [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) (Must have for all modpacks)
-- [Presence Footsteps (Forge)(https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge) (Pair this with Sound Physics, [Enhanced Audio](https://www.curseforge.com/minecraft/texture-packs/enhanced-audio) and [Enhanced Audio: Ambiance](https://www.curseforge.com/minecraft/texture-packs/enhanced-audio-ambience))
+- [Presence Footsteps] (Forge)(https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge) (Pair this with Sound Physics, [Enhanced Audio](https://www.curseforge.com/minecraft/texture-packs/enhanced-audio) and [Enhanced Audio: Ambiance](https://www.curseforge.com/minecraft/texture-packs/enhanced-audio-ambience))
 - [Physics Mod](https://www.curseforge.com/minecraft/mc-mods/physics-mod) (Really advanced physics system, can be a bit too much sometimes)
 
 ## Shaders
@@ -73,13 +74,17 @@ NOTE: All of the mods are available for forge 1.20.1 and any libraries required 
 ### Military
 
 - [Marbled's Arsenal](https://www.curseforge.com/minecraft/mc-mods/marbleds-arsenal) (Alot of good armor pieces)
+- [Luminous Lenses](https://www.curseforge.com/minecraft/mc-mods/luminous-lenses) (Seems to be the best Night Vision Goggles mod out there, it unfortunately breaks in multiplayer and the devs have not updated it for over a year)
 
 ### Medical
 
 - [Marbled's First Aid](https://www.curseforge.com/minecraft/mc-mods/marbleds-first-aid)
 
-## Tweaks
+## Tweaks & QoL
 - [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) (Must have for all modpacks)
+- [Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (Adds HUD improvements for food, such as how much hunger an item replenishes)
 
 ## Utility
+- [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) (Really good proximity chat)
 - [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) (Neat little minimap, but can take away from the experience)
+- [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) (Really good if your mods add alot of items)
