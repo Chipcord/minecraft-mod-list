@@ -11,7 +11,7 @@ NOTE: All of the mods are available for forge 1.20.1 and any libraries required 
 - [Shaders](#Shaders)
 - [Decoration](#Decoration)
 - [Armor, Clothing & Miscellaneous](#Armor,Clothing&Miscellaneous)
-- [Tweaks & QoL](#Tweaks&QoL)
+- [Tweaks & QoL](#Tweaks_&_QoL)
 - [Utility](#Utility)
 
 ## Immersive Vehicles
