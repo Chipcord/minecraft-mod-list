@@ -48,6 +48,9 @@ NOTE: All of the mods are available for forge 1.20.1 and any libraries required 
 ### Medieval
 
 ## Sound & Physics
+- [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) (Must have for all modpacks)
+- [Presence Footsteps (Forge)(https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge) (Pair this with Sound Physics, [Enhanced Audio](https://www.curseforge.com/minecraft/texture-packs/enhanced-audio) and [Enhanced Audio: Ambiance](https://www.curseforge.com/minecraft/texture-packs/enhanced-audio-ambience))
+- [Physics Mod](https://www.curseforge.com/minecraft/mc-mods/physics-mod) (Really advanced physics system, can be a bit too much sometimes)
 
 ## Shaders
 
@@ -76,4 +79,5 @@ NOTE: All of the mods are available for forge 1.20.1 and any libraries required 
 - [Marbled's First Aid](https://www.curseforge.com/minecraft/mc-mods/marbleds-first-aid)
 
 ## Tweaks
+- [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) (Must have for all modpacks)
 
