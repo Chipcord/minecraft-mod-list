@@ -85,6 +85,7 @@ NOTE: All of the mods are available for forge 1.20.1 and any libraries required 
 ## Tweaks & QoL
 - [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) (Must have for all modpacks)
 - [Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (Adds HUD improvements for food, such as how much hunger an item replenishes)
+- [Eating Animation](https://www.curseforge.com/minecraft/mc-mods/eating-animation-forge) (Does exactly what it says)
 
 ## Utility
 - [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) (Really good proximity chat)
@@ -92,6 +93,7 @@ NOTE: All of the mods are available for forge 1.20.1 and any libraries required 
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) (Really good if your mods add alot of items)
 - [Item Obliterator](https://www.curseforge.com/minecraft/mc-mods/item-obliterator) (A mod adds items you don't want, or you just want to dissable diamond sword recipe? This is for you)
 - [Lootr](https://www.curseforge.com/minecraft/mc-mods/lootr) (If you want each player to have equal amounts of loot)
+- [Essential Mod](https://essential.gg/) (Makes you able to play with your friends without being on the same internet(no costs btw))
 
 ## Terrain & Structures Generation
 ### Terrain
