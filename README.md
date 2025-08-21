@@ -100,3 +100,5 @@ NOTE: All of the mods are available for forge 1.20.1 and any libraries required 
 ### Structures
 - [The Lost Cities](https://www.curseforge.com/minecraft/mc-mods/the-lost-cities/files/all?page=1&pageSize=20) (Adds abandoned cities, can be buggy at times)
 - [Undermod](https://www.curseforge.com/minecraft/mc-mods/undermod) (Perfect combination with The Lost Cities, adds sewers, etc)
+
+[Securitycraft](https://www.curseforge.com/minecraft/mc-mods/security-craft)
