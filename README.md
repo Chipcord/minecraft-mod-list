@@ -30,6 +30,7 @@ NOTE: All of the mods are available for forge 1.20.1 and any libraries required 
 ### Military
 
 - [Superb Warfare](https://www.curseforge.com/minecraft/mc-mods/superb-warfare) (Also adds guns and cannons)
+- [AshVehicle](https://www.curseforge.com/minecraft/mc-mods/ashvehicle) (Really good vehicle pack for superb warfare)
 - [MCSP Addon](https://www.curseforge.com/minecraft/mc-mods/mcsp-military-vehicle) (This is an addon for Superb Warfare, but I havn't managed to make it work yet)
 
 ### Civilian
